@@ -18,4 +18,7 @@ google:
 frontend:
   themes: !include_dir_merge_named themes
   
+spotify:
+  client_id: 2ff6814574774b2e8582035eb86af24f
+  client_secret: a9271734e0324c7ebd35a5fce7a7028a
   
