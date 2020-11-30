@@ -1,0 +1,42 @@
+
+- cal_id: en.usa#holiday@group.v.calendar.google.com
+  entities:
+  - device_id: holidays_in_united_states
+    ignore_availability: true
+    name: Holidays in United States
+    track: true
+
+- cal_id: tararee@gmail.com
+  entities:
+  - device_id: tararee_gmail_com
+    ignore_availability: true
+    name: tararee@gmail.com
+    track: true
+
+- cal_id: 5cg728un4alhhefvourck16mk8@group.calendar.google.com
+  entities:
+  - device_id: daemyoung_high_school
+    ignore_availability: true
+    name: Daemyoung High School
+    track: false
+
+- cal_id: addressbook#contacts@group.v.calendar.google.com
+  entities:
+  - device_id: birthdays
+    ignore_availability: true
+    name: Birthdays
+    track: true
+
+- cal_id: ka6nq0d8rfclc6t0c9pukvdreg@group.calendar.google.com
+  entities:
+  - device_id: op_pop_x
+    ignore_availability: true
+    name: Op Pop X
+    track: false
+
+- cal_id: 2fr6g1igeaoafbtbc5p4tqqa8g@group.calendar.google.com
+  entities:
+  - device_id: simpleperiod
+    ignore_availability: true
+    name: SimplePeriod
+    track: false
